@@ -11,8 +11,20 @@
         "start": "npm run dev"
     },
     "dependencies": {
+        "@ebay/nice-modal-react": "^1.2.10",
+        "@emotion/react": "^11.11.0",
+        "@emotion/styled": "^11.11.0",
+        "@mui/icons-material": "^5.11.16",
+        "@mui/lab": "^5.0.0-alpha.129",
+        "@mui/material": "^5.12.3",
+        "@mui/x-data-grid": "^6.3.1",
+        "ag-grid-community": "^29.3.4",
+        "ag-grid-react": "^29.3.4",
+        "axios": "^1.4.0",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "react-router": "^6.11.1",
+        "react-router-dom": "^6.11.1"
     },
     "devDependencies": {
         "@types/react": "^18.0.28",
